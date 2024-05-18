@@ -1,27 +1,23 @@
 ## Criando ebook do zero
 
 ### Criação do título
-Crie um título de um ebook sobre o tema de ruby, o ebook é do nicho  de programação e o subnincho é ruby, o título  deve ser curto, e tenha  uma temática do o guia do mochileiro das galaxia, me liste 5 variações de titulos
 
-
-* Criação da capa 
-
-* MidJourney - Não foi possível usar, mas usei outra solução
-
-* Runwayml
-draws a ruby stone on the screen of a computer called The Deep Thinker and an illustration as if it had been drawn on the cover of "The Hitchhiker's Guide to the Galaxy" by "Chris Riddell"
+> Crie um título de um ebook sobre o tema de ruby, o ebook é do nicho  de programação e o subnincho é ruby, o título  deve ser curto, e tenha  uma temática do o guia do mochileiro das galáxia, me liste 5 variações de títulos
 
 ## Prompt 
 
-faça um texto para ebook, com foço em programação iniciante em ruby com exemplos de códigos 
+Faça um texto para ebook, com foço em programação iniciante em ruby com exemplos de códigos 
 
 {Regras}
 > Explique sempre de maneira simples
->Deixe o texto enxuto
+> Deixe o texto enxuto
 > sempre traga exemplos de códigos em contexto reais 
->sempre deixe um titulo sugestivo do topico
+> Sempre deixe um título sugestivo do tópico
 
+<!-- 
 ## Roadmap
+
+Conteúdos para ser abordado no ebook
 
 Roadmap de Aprendizado em Ruby: Do Básico ao Avançado
 
@@ -76,4 +72,4 @@ Projeto Prático:
 
 Desenvolvimento de uma aplicação completa usando Ruby e um framework escolhido
 Implementação de funcionalidades avançadas
-Testes automatizados e depuração
+Testes automatizados e depuração -->
