@@ -14,6 +14,9 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
 
+ > [Repositório original](https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook)
+
+
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
