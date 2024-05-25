@@ -50,8 +50,6 @@ Runwayml:
 | título | draws a ruby stone on the screen of a computer called The Deep Thinker and an illustration as if it had been drawn on the cover of "The Hitchhiker's Guide to the Galaxy" by "Chris Riddell" |
 
 
-
-
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
@@ -90,5 +88,33 @@ felipe-exe">LinkedIn</a>
 <p> -->
 
 ---
+
+## Build pdf
+
+```bash
+$ soffice --headless --convert-to pdf --outdir output ebook.odp
+```
+
+# Contribuindo para Rubyista das Galáxias
+
+Obrigado por considerar contribuir para o Rubyista das Galáxias! Este eBook é um esforço colaborativo e todas as contribuições são bem-vindas, sejam elas pequenas correções de erros, melhorias no conteúdo ou novos recursos.
+
+## Como Contribuir
+
+1. **Fork** o projeto.
+2. Crie uma nova **branch** (`git checkout -b feature/nova-contribuicao`).
+3. Faça **commit** de suas alterações (`git commit -am 'Adicionar nova contribuição'`).
+4. Faça um **push** para a branch (`git push origin feature/nova-contribuicao`).
+5. Envie uma **Pull Request**.
+
+Por favor, leia nosso [Guia de Contribuição](link_para_o_guia_de_contribuição) para obter mais detalhes sobre como contribuir para este projeto.
+
+## Ajuda Adicional
+
+Se você tiver alguma dúvida ou precisar de ajuda adicional, sinta-se à vontade para abrir uma issue ou entrar em contato com [Dayan Freitas](https://github.com/Dayanfreitas).
+
+## Agradecimentos
+
+Agradecemos a você por contribuir para tornar este eBook ainda melhor!
 
 Créditos e inspiração por [Felipe Aguiar](https://github.com/felipeAguiarCode)
